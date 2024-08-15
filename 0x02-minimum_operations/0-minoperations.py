@@ -25,4 +25,3 @@ def minOperations(n):
         factor += 1  # Increment factor
 
     return operations  # Return the total number of operations
-
